@@ -8,12 +8,18 @@
 
 
 
-[![$MRI SHOW ME THE CODE (MONEY) TOM CRUISE PARODY](https://img.youtube.com/vi/yhYxhxeGx4M/0.jpg)](https://www.youtube.com/watch?v=yhYxhxeGx4M)
 
 
 
 
-https://user-images.githubusercontent.com/101516638/158075441-2109ac3d-4e87-4375-b9e5-e068feb2efcc.mp4
+https://user-images.githubusercontent.com/101516638/158075657-29456442-13bd-48db-8176-b293ade8b715.mp4
+
+
+
+
+https://user-images.githubusercontent.com/101516638/158075613-f45c7400-653b-44f8-bf4b-4fb5058e69d4.mp4
+
+
 
 
 
