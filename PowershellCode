@@ -1,6 +1,6 @@
+#Creates Ascii Art from a JPG
 
-
-$Path = "C:\Users\micha\Downloads\showmethecode.jpg"
+$Path = "C:\%PathToImage%\showmethecode.jpg"
 
 
 
